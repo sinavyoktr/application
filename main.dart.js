@@ -81319,7 +81319,7 @@ o=(p==null?$.aR=$.c5():p).ce(0,"[DEFAULT]")
 A.bo(o,$.c4())
 p=A.dz(new A.bC(o))
 p=A.e6(p,p.gcF().cW(0,"system")).cA(0,"bildirilenSorular")
-n=A.f1(A.x(["sorular",q.d],t.N,t.X))
+n=A.f1(A.x(["sorular",q.e],t.N,t.X))
 n.toString
 s=2
 return A.u(p.a.aT(0,n),$async$vY)
